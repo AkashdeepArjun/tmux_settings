@@ -1,0 +1,88 @@
+[2025-02-08 13:11:48.480]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-02-08 13:11:48.523]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-08 13:11:48.642]	Installing "tmux-copycat"
+[2025-02-08 13:11:48.675]	Installing "tmux-cpu"
+[2025-02-08 13:11:48.708]	Installing "tmux-continuum"
+[2025-02-08 13:11:48.741]	Installing "tmux-resurrect"
+[2025-02-08 13:12:04.722]	  "tmux-cpu" download success
+[2025-02-08 13:12:04.802]	  "tmux-copycat" download success
+[2025-02-08 13:12:04.840]	  "tmux-continuum" download success
+[2025-02-08 13:12:20.834]	  "tmux-resurrect" download success
+[2025-02-08 13:12:20.875]	Done.
+
+[2025-02-08 13:13:01.430]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-02-08 13:13:01.464]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-08 13:13:01.560]	Already installed "tmux-resurrect"
+[2025-02-08 13:13:01.592]	Already installed "tmux-continuum"
+[2025-02-08 13:13:01.626]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-08 13:13:01.702]	Updating all plugins!
+[2025-02-08 13:13:01.742]	
+[2025-02-08 13:13:17.471]	  "tmux-resurrect" update success
+[2025-02-08 13:13:17.504]	    | Already up to date.
+[2025-02-08 13:13:17.631]	  "tmux-continuum" update success
+[2025-02-08 13:13:17.666]	    | Already up to date.
+[2025-02-08 13:13:17.701]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-08 13:13:17.793]	Removing "tmux-copycat"
+[2025-02-08 13:13:17.825]	  "tmux-copycat" clean success
+[2025-02-08 13:13:17.865]	Removing "tmux-cpu"
+[2025-02-08 13:13:17.905]	  "tmux-cpu" clean success
+[2025-02-08 13:13:17.964]	Done.
+
+[2025-02-08 13:13:58.881]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-02-08 13:13:58.916]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-08 13:13:58.989]	error creating /tmp/tmux-1000/default (No such file or directory)
+[2025-02-08 13:13:59.024]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-02-08 13:13:59.056]	Aborting.
+[2025-02-08 13:13:59.098]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-08 13:13:59.166]	error creating /tmp/tmux-1000/default (No such file or directory)
+[2025-02-08 13:13:59.198]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-02-08 13:13:59.231]	Aborting.
+[2025-02-08 13:13:59.273]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-08 13:13:59.344]	error creating /tmp/tmux-1000/default (No such file or directory)
+[2025-02-08 13:13:59.377]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-02-08 13:13:59.409]	Aborting.
+[2025-02-08 13:13:59.452]	Done.
+
+[2025-02-08 13:14:00.019]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-02-08 13:14:00.060]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-08 13:14:00.128]	error creating /tmp/tmux-1000/default (No such file or directory)
+[2025-02-08 13:14:00.185]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-02-08 13:14:00.225]	Aborting.
+[2025-02-08 13:14:00.268]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-08 13:14:00.337]	error creating /tmp/tmux-1000/default (No such file or directory)
+[2025-02-08 13:14:00.369]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-02-08 13:14:00.409]	Aborting.
+[2025-02-08 13:14:00.444]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-08 13:14:00.513]	error creating /tmp/tmux-1000/default (No such file or directory)
+[2025-02-08 13:14:00.545]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-02-08 13:14:00.577]	Aborting.
+[2025-02-08 13:14:00.618]	Done.
+
+[2025-02-08 13:14:41.006]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-02-08 13:14:41.048]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-08 13:14:41.140]	Already installed "tmux-resurrect"
+[2025-02-08 13:14:41.178]	Already installed "tmux-continuum"
+[2025-02-08 13:14:41.221]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-08 13:14:41.292]	Updating all plugins!
+[2025-02-08 13:14:41.332]	
+[2025-02-08 13:14:57.053]	  "tmux-resurrect" update success
+[2025-02-08 13:14:57.089]	    | Already up to date.
+[2025-02-08 13:14:57.121]	  "tmux-continuum" update success
+[2025-02-08 13:14:57.155]	    | Already up to date.
+[2025-02-08 13:14:57.189]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-08 13:14:57.293]	Done.
+
+[2025-02-08 20:10:30.594]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-02-08 20:10:30.628]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-08 20:10:30.727]	Already installed "tmux-continuum"
+[2025-02-08 20:10:30.767]	Already installed "tmux-resurrect"
+[2025-02-08 20:10:30.809]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-08 20:10:30.884]	Updating all plugins!
+[2025-02-08 20:10:30.923]	
+[2025-02-08 20:10:46.765]	  "tmux-continuum" update success
+[2025-02-08 20:10:46.798]	    | Already up to date.
+[2025-02-08 20:10:46.835]	  "tmux-resurrect" update success
+[2025-02-08 20:10:46.875]	    | Already up to date.
+[2025-02-08 20:10:46.910]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-08 20:10:47.004]	Done.
+
