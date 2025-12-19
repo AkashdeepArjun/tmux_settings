@@ -4604,3 +4604,1416 @@
 [2025-07-12 13:20:06.928]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
 [2025-07-12 13:20:07.032]	Done.
 
+[2025-10-17 11:55:10.194]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-17 11:55:10.232]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-17 11:55:10.326]	Already installed "tmux-cpu"
+[2025-10-17 11:55:10.364]	Already installed "tmux-resurrect"
+[2025-10-17 11:55:10.402]	Already installed "tmux-continuum"
+[2025-10-17 11:55:10.432]	Already installed "tmux-df"
+[2025-10-17 11:55:10.472]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-17 11:55:10.539]	Updating all plugins!
+[2025-10-17 11:55:10.583]	
+[2025-10-17 11:55:26.616]	  "tmux-cpu" update success
+[2025-10-17 11:55:26.648]	  "tmux-resurrect" update success
+[2025-10-17 11:55:26.679]	  "tmux-continuum" update success
+[2025-10-17 11:55:26.709]	    | Already up to date.
+[2025-10-17 11:55:26.739]	  "tmux-df" update success
+[2025-10-17 11:55:26.779]	    | Already up to date.
+[2025-10-17 11:55:26.810]	    | Already up to date.
+[2025-10-17 11:55:26.840]	    | Already up to date.
+[2025-10-17 11:55:26.872]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-17 11:55:26.978]	Done.
+
+[2025-10-17 13:17:03.595]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-17 13:17:03.657]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-17 13:17:03.853]	Already installed "tmux-continuum"
+[2025-10-17 13:17:03.909]	Already installed "tmux-cpu"
+[2025-10-17 13:17:03.972]	Already installed "tmux-resurrect"
+[2025-10-17 13:17:04.026]	Already installed "tmux-df"
+[2025-10-17 13:17:04.081]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-17 13:17:04.192]	Updating all plugins!
+[2025-10-17 13:17:04.292]	
+[2025-10-17 13:17:20.201]	  "tmux-cpu" update success
+[2025-10-17 13:17:20.232]	    | Already up to date.
+[2025-10-17 13:17:20.266]	  "tmux-resurrect" update success
+[2025-10-17 13:17:20.299]	    | Already up to date.
+[2025-10-17 13:17:20.340]	  "tmux-continuum" update success
+[2025-10-17 13:17:20.371]	    | Already up to date.
+[2025-10-17 13:17:20.484]	  "tmux-df" update success
+[2025-10-17 13:17:20.516]	    | Already up to date.
+[2025-10-17 13:17:20.549]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-17 13:17:20.651]	Done.
+
+[2025-10-17 22:18:20.710]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-17 22:18:20.764]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-17 22:18:20.947]	Already installed "tmux-cpu"
+[2025-10-17 22:18:21.004]	Already installed "tmux-resurrect"
+[2025-10-17 22:18:21.064]	Already installed "tmux-df"
+[2025-10-17 22:18:21.120]	Already installed "tmux-continuum"
+[2025-10-17 22:18:21.176]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-17 22:18:21.296]	Updating all plugins!
+[2025-10-17 22:18:21.382]	
+[2025-10-17 22:18:37.404]	  "tmux-cpu" update success
+[2025-10-17 22:18:37.447]	    | Already up to date.
+[2025-10-17 22:18:37.484]	  "tmux-resurrect" update success
+[2025-10-17 22:18:37.516]	    | Already up to date.
+[2025-10-17 22:18:37.550]	  "tmux-df" update success
+[2025-10-17 22:18:37.582]	    | Already up to date.
+[2025-10-17 22:18:37.616]	  "tmux-continuum" update success
+[2025-10-17 22:18:37.646]	    | Already up to date.
+[2025-10-17 22:18:37.679]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-17 22:18:37.784]	Done.
+
+[2025-10-19 16:52:36.166]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-19 16:52:36.205]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-19 16:52:36.313]	Already installed "tmux-cpu"
+[2025-10-19 16:52:36.354]	Already installed "tmux-continuum"
+[2025-10-19 16:52:36.388]	Already installed "tmux-resurrect"
+[2025-10-19 16:52:36.420]	Already installed "tmux-df"
+[2025-10-19 16:52:36.453]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-19 16:52:36.520]	Updating all plugins!
+[2025-10-19 16:52:36.568]	
+[2025-10-19 16:52:52.464]	  "tmux-cpu" update success
+[2025-10-19 16:52:52.500]	    | Already up to date.
+[2025-10-19 16:52:52.535]	  "tmux-df" update success
+[2025-10-19 16:52:52.574]	    | Already up to date.
+[2025-10-19 16:52:52.608]	  "tmux-resurrect" update success
+[2025-10-19 16:52:52.640]	    | Already up to date.
+[2025-10-19 16:52:52.673]	  "tmux-continuum" update success
+[2025-10-19 16:52:52.703]	    | Already up to date.
+[2025-10-19 16:52:52.735]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-19 16:52:52.833]	Done.
+
+[2025-10-21 12:39:09.452]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 12:39:09.484]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 12:39:09.586]	Already installed "tmux-cpu"
+[2025-10-21 12:39:09.615]	Already installed "tmux-resurrect"
+[2025-10-21 12:39:09.653]	Already installed "tmux-continuum"
+[2025-10-21 12:39:09.693]	Already installed "tmux-df"
+[2025-10-21 12:39:09.724]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 12:39:09.792]	Updating all plugins!
+[2025-10-21 12:39:09.842]	
+[2025-10-21 12:39:26.190]	  "tmux-resurrect" update success
+[2025-10-21 12:39:26.261]	    | Already up to date.
+[2025-10-21 12:39:26.341]	  "tmux-cpu" update success
+[2025-10-21 12:39:26.480]	    | Already up to date.
+[2025-10-21 12:39:26.534]	  "tmux-df" update success
+[2025-10-21 12:39:26.585]	  "tmux-continuum" update success
+[2025-10-21 12:39:26.640]	    | Already up to date.
+[2025-10-21 12:39:26.696]	    | Already up to date.
+[2025-10-21 12:39:26.751]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 12:39:26.919]	Done.
+
+[2025-10-21 15:14:45.511]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 15:14:45.549]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:14:45.643]	Already installed "tmux-cpu"
+[2025-10-21 15:14:45.675]	Already installed "tmux-resurrect"
+[2025-10-21 15:14:45.713]	Already installed "tmux-continuum"
+[2025-10-21 15:14:45.745]	Already installed "tmux-df"
+[2025-10-21 15:14:45.784]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:14:45.851]	Updating all plugins!
+[2025-10-21 15:14:45.897]	
+[2025-10-21 15:15:01.852]	  "tmux-resurrect" update success
+[2025-10-21 15:15:01.886]	    | Already up to date.
+[2025-10-21 15:15:01.920]	  "tmux-continuum" update success
+[2025-10-21 15:15:01.949]	  "tmux-cpu" update success
+[2025-10-21 15:15:01.982]	    | Already up to date.
+[2025-10-21 15:15:02.014]	    | Already up to date.
+[2025-10-21 15:15:02.046]	  "tmux-df" update success
+[2025-10-21 15:15:02.079]	    | Already up to date.
+[2025-10-21 15:15:02.112]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:15:02.211]	Done.
+
+[2025-10-21 15:15:09.885]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 15:15:09.923]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:15:10.006]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:15:10.074]	Updating all plugins!
+[2025-10-21 15:15:10.103]	
+[2025-10-21 15:15:10.142]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:15:10.226]	Removing "tmux-continuum"
+[2025-10-21 15:15:10.256]	  "tmux-continuum" clean success
+[2025-10-21 15:15:10.291]	Removing "tmux-cpu"
+[2025-10-21 15:15:10.329]	  "tmux-cpu" clean success
+[2025-10-21 15:15:10.367]	Removing "tmux-df"
+[2025-10-21 15:15:10.397]	  "tmux-df" clean success
+[2025-10-21 15:15:10.428]	Removing "tmux-resurrect"
+[2025-10-21 15:15:10.458]	  "tmux-resurrect" clean success
+[2025-10-21 15:15:10.497]	Done.
+
+[2025-10-21 15:15:12.989]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 15:15:13.036]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:15:13.096]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.131]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.163]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.221]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.290]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:15:13.409]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.503]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.544]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.583]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.627]	Updating all plugins!
+[2025-10-21 15:15:13.678]	
+[2025-10-21 15:15:13.727]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:15:13.802]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.850]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.885]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.915]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-10-21 15:15:13.949]	Done.
+
+[2025-10-21 15:15:46.050]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 15:15:46.088]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:15:46.214]	Installing "tmux-resurrect"
+[2025-10-21 15:15:46.248]	Installing "tmux-cpu"
+[2025-10-21 15:15:46.278]	Installing "tmux-continuum"
+[2025-10-21 15:15:46.308]	Installing "tmux-df"
+[2025-10-21 15:16:02.545]	  "tmux-cpu" download success
+[2025-10-21 15:16:02.578]	  "tmux-df" download success
+[2025-10-21 15:16:02.629]	  "tmux-continuum" download success
+[2025-10-21 15:16:19.369]	  "tmux-resurrect" download success
+[2025-10-21 15:16:19.420]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:16:19.532]	Updating all plugins!
+[2025-10-21 15:16:19.587]	
+[2025-10-21 15:16:35.757]	  "tmux-continuum" update success
+[2025-10-21 15:16:35.792]	    | Already up to date.
+[2025-10-21 15:16:35.823]	  "tmux-cpu" update success
+[2025-10-21 15:16:35.853]	    | Already up to date.
+[2025-10-21 15:16:35.885]	  "tmux-resurrect" update success
+[2025-10-21 15:16:35.931]	    | Already up to date.
+[2025-10-21 15:16:35.963]	  "tmux-df" update success
+[2025-10-21 15:16:35.994]	    | Already up to date.
+[2025-10-21 15:16:36.025]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:16:36.130]	Done.
+
+[2025-10-21 20:07:09.091]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 20:07:09.148]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 20:07:09.322]	Already installed "tmux-resurrect"
+[2025-10-21 20:07:09.369]	Already installed "tmux-cpu"
+[2025-10-21 20:07:09.411]	Already installed "tmux-df"
+[2025-10-21 20:07:09.451]	Already installed "tmux-continuum"
+[2025-10-21 20:07:09.498]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 20:07:09.596]	Updating all plugins!
+[2025-10-21 20:07:09.696]	
+[2025-10-21 20:07:25.823]	  "tmux-cpu" update success
+[2025-10-21 20:07:25.887]	    | Already up to date.
+[2025-10-21 20:07:25.927]	  "tmux-df" update success
+[2025-10-21 20:07:25.958]	    | Already up to date.
+[2025-10-21 20:07:25.989]	  "tmux-continuum" update success
+[2025-10-21 20:07:26.020]	    | Already up to date.
+[2025-10-21 20:07:26.050]	  "tmux-resurrect" update success
+[2025-10-21 20:07:26.088]	    | Already up to date.
+[2025-10-21 20:07:26.128]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 20:07:26.229]	Done.
+
+[2025-10-21 22:05:08.715]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-21 22:05:08.882]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 22:05:09.541]	Already installed "tmux-df"
+[2025-10-21 22:05:09.622]	Already installed "tmux-continuum"
+[2025-10-21 22:05:09.725]	Already installed "tmux-cpu"
+[2025-10-21 22:05:09.840]	Already installed "tmux-resurrect"
+[2025-10-21 22:05:09.937]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 22:05:10.052]	Updating all plugins!
+[2025-10-21 22:05:10.121]	
+[2025-10-21 22:05:26.593]	  "tmux-resurrect" update success
+[2025-10-21 22:05:26.636]	    | Already up to date.
+[2025-10-21 22:05:26.690]	  "tmux-continuum" update success
+[2025-10-21 22:05:26.725]	    | Already up to date.
+[2025-10-21 22:05:27.048]	  "tmux-df" update success
+[2025-10-21 22:05:27.085]	    | Already up to date.
+[2025-10-21 22:05:29.377]	  "tmux-cpu" update success
+[2025-10-21 22:05:29.430]	    | Already up to date.
+[2025-10-21 22:05:29.505]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 22:05:29.699]	Done.
+
+[2025-10-22 16:58:34.602]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-22 16:58:34.643]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-22 16:58:34.753]	Already installed "tmux-cpu"
+[2025-10-22 16:58:34.801]	Already installed "tmux-continuum"
+[2025-10-22 16:58:34.842]	Already installed "tmux-df"
+[2025-10-22 16:58:34.880]	Already installed "tmux-resurrect"
+[2025-10-22 16:58:34.929]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-22 16:58:35.076]	Updating all plugins!
+[2025-10-22 16:58:35.140]	
+[2025-10-22 16:58:50.924]	  "tmux-continuum" update success
+[2025-10-22 16:58:50.976]	    | Already up to date.
+[2025-10-22 16:58:51.020]	  "tmux-resurrect" update success
+[2025-10-22 16:58:51.050]	    | Already up to date.
+[2025-10-22 16:58:51.107]	  "tmux-df" update success
+[2025-10-22 16:58:51.147]	    | Already up to date.
+[2025-10-22 16:58:51.178]	  "tmux-cpu" update success
+[2025-10-22 16:58:51.209]	    | Already up to date.
+[2025-10-22 16:58:51.248]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-22 16:58:51.346]	Done.
+
+[2025-10-28 20:15:47.515]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-28 20:15:47.549]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-28 20:15:47.660]	Already installed "tmux-continuum"
+[2025-10-28 20:15:47.690]	Already installed "tmux-cpu"
+[2025-10-28 20:15:47.727]	Already installed "tmux-resurrect"
+[2025-10-28 20:15:47.764]	Already installed "tmux-df"
+[2025-10-28 20:15:47.804]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-28 20:15:47.873]	Updating all plugins!
+[2025-10-28 20:15:47.919]	
+[2025-10-28 20:16:03.909]	  "tmux-df" update success
+[2025-10-28 20:16:03.960]	  "tmux-cpu" update success
+[2025-10-28 20:16:04.017]	    | Already up to date.
+[2025-10-28 20:16:04.069]	    | Already up to date.
+[2025-10-28 20:16:04.126]	  "tmux-continuum" update success
+[2025-10-28 20:16:04.168]	    | Already up to date.
+[2025-10-28 20:16:04.210]	  "tmux-resurrect" update success
+[2025-10-28 20:16:04.259]	    | Already up to date.
+[2025-10-28 20:16:04.317]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-28 20:16:04.469]	Done.
+
+[2025-10-29 14:30:04.868]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-29 14:30:04.923]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-29 14:30:05.039]	Already installed "tmux-cpu"
+[2025-10-29 14:30:05.073]	Already installed "tmux-continuum"
+[2025-10-29 14:30:05.104]	Already installed "tmux-df"
+[2025-10-29 14:30:05.136]	Already installed "tmux-resurrect"
+[2025-10-29 14:30:05.178]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-29 14:30:05.275]	Updating all plugins!
+[2025-10-29 14:30:05.334]	
+[2025-10-29 14:30:21.331]	  "tmux-resurrect" update success
+[2025-10-29 14:30:21.362]	    | Already up to date.
+[2025-10-29 14:30:21.774]	  "tmux-df" update success
+[2025-10-29 14:30:21.815]	  "tmux-continuum" update success
+[2025-10-29 14:30:21.845]	  "tmux-cpu" update success
+[2025-10-29 14:30:21.875]	    | Already up to date.
+[2025-10-29 14:30:21.909]	    | Already up to date.
+[2025-10-29 14:30:21.943]	    | Already up to date.
+[2025-10-29 14:30:21.977]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-29 14:30:22.085]	Done.
+
+[2025-10-29 14:48:20.200]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-10-29 14:48:20.237]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-29 14:48:20.337]	Already installed "tmux-cpu"
+[2025-10-29 14:48:20.367]	Already installed "tmux-resurrect"
+[2025-10-29 14:48:20.405]	Already installed "tmux-df"
+[2025-10-29 14:48:20.442]	Already installed "tmux-continuum"
+[2025-10-29 14:48:20.482]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-29 14:48:20.553]	Updating all plugins!
+[2025-10-29 14:48:20.604]	
+[2025-10-29 14:48:36.359]	  "tmux-cpu" update success
+[2025-10-29 14:48:36.391]	    | Already up to date.
+[2025-10-29 14:48:36.425]	  "tmux-continuum" update success
+[2025-10-29 14:48:36.463]	    | Already up to date.
+[2025-10-29 14:48:36.495]	  "tmux-df" update success
+[2025-10-29 14:48:36.533]	    | Already up to date.
+[2025-10-29 14:48:36.570]	  "tmux-resurrect" update success
+[2025-10-29 14:48:36.603]	    | Already up to date.
+[2025-10-29 14:48:36.638]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-29 14:48:36.742]	Done.
+
+[2025-11-06 12:48:35.450]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-06 12:48:35.489]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-06 12:48:35.592]	Already installed "tmux-df"
+[2025-11-06 12:48:35.630]	Already installed "tmux-continuum"
+[2025-11-06 12:48:35.660]	Already installed "tmux-resurrect"
+[2025-11-06 12:48:35.698]	Already installed "tmux-cpu"
+[2025-11-06 12:48:35.732]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-06 12:48:35.802]	Updating all plugins!
+[2025-11-06 12:48:35.854]	
+[2025-11-06 12:48:51.651]	  "tmux-df" update success
+[2025-11-06 12:48:51.735]	    | Already up to date.
+[2025-11-06 12:48:51.772]	  "tmux-resurrect" update success
+[2025-11-06 12:48:51.810]	    | Already up to date.
+[2025-11-06 12:48:51.856]	  "tmux-cpu" update success
+[2025-11-06 12:48:51.887]	  "tmux-continuum" update success
+[2025-11-06 12:48:51.918]	    | Already up to date.
+[2025-11-06 12:48:51.949]	    | Already up to date.
+[2025-11-06 12:48:51.987]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-06 12:48:52.084]	Done.
+
+[2025-11-06 19:48:23.679]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-06 19:48:23.714]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-06 19:48:23.816]	Already installed "tmux-continuum"
+[2025-11-06 19:48:23.851]	Already installed "tmux-cpu"
+[2025-11-06 19:48:23.890]	Already installed "tmux-df"
+[2025-11-06 19:48:23.923]	Already installed "tmux-resurrect"
+[2025-11-06 19:48:23.964]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-06 19:48:24.033]	Updating all plugins!
+[2025-11-06 19:48:24.083]	
+[2025-11-06 19:48:39.841]	  "tmux-cpu" update success
+[2025-11-06 19:48:39.884]	    | Already up to date.
+[2025-11-06 19:48:39.921]	  "tmux-resurrect" update success
+[2025-11-06 19:48:39.953]	    | Already up to date.
+[2025-11-06 19:48:39.985]	  "tmux-df" update success
+[2025-11-06 19:48:40.017]	    | Already up to date.
+[2025-11-06 19:48:40.055]	  "tmux-continuum" update success
+[2025-11-06 19:48:40.092]	    | Already up to date.
+[2025-11-06 19:48:40.132]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-06 19:48:40.229]	Done.
+
+[2025-11-07 16:20:22.785]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-07 16:20:22.825]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-07 16:20:22.927]	Already installed "tmux-continuum"
+[2025-11-07 16:20:22.965]	Already installed "tmux-cpu"
+[2025-11-07 16:20:22.998]	Already installed "tmux-df"
+[2025-11-07 16:20:23.036]	Already installed "tmux-resurrect"
+[2025-11-07 16:20:23.070]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-07 16:20:23.141]	Updating all plugins!
+[2025-11-07 16:20:23.190]	
+[2025-11-07 16:20:39.117]	  "tmux-cpu" update success
+[2025-11-07 16:20:39.159]	    | Already up to date.
+[2025-11-07 16:20:39.190]	  "tmux-df" update success
+[2025-11-07 16:20:39.223]	    | Already up to date.
+[2025-11-07 16:20:39.257]	  "tmux-continuum" update success
+[2025-11-07 16:20:39.288]	    | Already up to date.
+[2025-11-07 16:20:39.326]	  "tmux-resurrect" update success
+[2025-11-07 16:20:39.358]	    | Already up to date.
+[2025-11-07 16:20:39.391]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-07 16:20:39.494]	Done.
+
+[2025-11-08 13:17:59.206]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-08 13:17:59.238]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-08 13:17:59.340]	Already installed "tmux-cpu"
+[2025-11-08 13:17:59.371]	Already installed "tmux-continuum"
+[2025-11-08 13:17:59.402]	Already installed "tmux-df"
+[2025-11-08 13:17:59.435]	Already installed "tmux-resurrect"
+[2025-11-08 13:17:59.474]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-08 13:17:59.542]	Updating all plugins!
+[2025-11-08 13:17:59.592]	
+[2025-11-08 13:18:15.426]	  "tmux-resurrect" update success
+[2025-11-08 13:18:15.460]	    | Already up to date.
+[2025-11-08 13:18:15.493]	  "tmux-cpu" update success
+[2025-11-08 13:18:15.523]	    | Already up to date.
+[2025-11-08 13:18:15.554]	  "tmux-continuum" update success
+[2025-11-08 13:18:15.586]	    | Already up to date.
+[2025-11-08 13:18:15.618]	  "tmux-df" update success
+[2025-11-08 13:18:15.653]	    | Already up to date.
+[2025-11-08 13:18:15.689]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-08 13:18:15.798]	Done.
+
+[2025-11-10 19:49:17.999]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-10 19:49:18.041]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-10 19:49:18.150]	Already installed "tmux-cpu"
+[2025-11-10 19:49:18.181]	Already installed "tmux-df"
+[2025-11-10 19:49:18.220]	Already installed "tmux-continuum"
+[2025-11-10 19:49:18.251]	Already installed "tmux-resurrect"
+[2025-11-10 19:49:18.285]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-10 19:49:18.362]	Updating all plugins!
+[2025-11-10 19:49:18.431]	
+[2025-11-10 19:49:34.217]	  "tmux-continuum" update success
+[2025-11-10 19:49:34.253]	  "tmux-cpu" update success
+[2025-11-10 19:49:34.284]	    | Already up to date.
+[2025-11-10 19:49:34.315]	    | Already up to date.
+[2025-11-10 19:49:34.347]	  "tmux-resurrect" update success
+[2025-11-10 19:49:34.377]	    | Already up to date.
+[2025-11-10 19:49:35.298]	  "tmux-df" update success
+[2025-11-10 19:49:35.328]	    | Already up to date.
+[2025-11-10 19:49:35.361]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-10 19:49:35.459]	Done.
+
+[2025-11-11 19:19:41.511]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-11 19:19:41.547]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-11 19:19:41.653]	Already installed "tmux-cpu"
+[2025-11-11 19:19:41.693]	Already installed "tmux-resurrect"
+[2025-11-11 19:19:41.728]	Already installed "tmux-continuum"
+[2025-11-11 19:19:41.758]	Already installed "tmux-df"
+[2025-11-11 19:19:41.798]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-11 19:19:41.866]	Updating all plugins!
+[2025-11-11 19:19:41.916]	
+[2025-11-11 19:19:57.672]	  "tmux-cpu" update success
+[2025-11-11 19:19:57.704]	    | Already up to date.
+[2025-11-11 19:19:57.738]	  "tmux-df" update success
+[2025-11-11 19:19:57.773]	    | Already up to date.
+[2025-11-11 19:19:57.803]	  "tmux-resurrect" update success
+[2025-11-11 19:19:57.833]	    | Already up to date.
+[2025-11-11 19:19:57.863]	  "tmux-continuum" update success
+[2025-11-11 19:19:57.893]	    | Already up to date.
+[2025-11-11 19:19:57.933]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-11 19:19:58.035]	Done.
+
+[2025-11-12 11:52:57.359]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-12 11:52:57.406]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-12 11:52:57.582]	Already installed "tmux-continuum"
+[2025-11-12 11:52:57.615]	Already installed "tmux-resurrect"
+[2025-11-12 11:52:57.647]	Already installed "tmux-df"
+[2025-11-12 11:52:57.679]	Already installed "tmux-cpu"
+[2025-11-12 11:52:57.713]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-12 11:52:57.790]	Updating all plugins!
+[2025-11-12 11:52:57.858]	
+[2025-11-12 11:53:13.650]	  "tmux-cpu" update success
+[2025-11-12 11:53:13.730]	    | Already up to date.
+[2025-11-12 11:53:13.777]	  "tmux-continuum" update success
+[2025-11-12 11:53:13.823]	    | Already up to date.
+[2025-11-12 11:53:13.867]	  "tmux-resurrect" update success
+[2025-11-12 11:53:13.912]	    | Already up to date.
+[2025-11-12 11:53:13.963]	  "tmux-df" update success
+[2025-11-12 11:53:14.015]	    | Already up to date.
+[2025-11-12 11:53:14.091]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-12 11:53:14.258]	Done.
+
+[2025-11-13 15:21:14.062]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-13 15:21:14.101]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-13 15:21:14.206]	Already installed "tmux-continuum"
+[2025-11-13 15:21:14.236]	Already installed "tmux-df"
+[2025-11-13 15:21:14.273]	Already installed "tmux-cpu"
+[2025-11-13 15:21:14.306]	Already installed "tmux-resurrect"
+[2025-11-13 15:21:14.340]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-13 15:21:14.408]	Updating all plugins!
+[2025-11-13 15:21:14.456]	
+[2025-11-13 15:21:30.468]	  "tmux-continuum" update success
+[2025-11-13 15:21:30.538]	    | Already up to date.
+[2025-11-13 15:21:30.606]	  "tmux-df" update success
+[2025-11-13 15:21:30.675]	    | Already up to date.
+[2025-11-13 15:21:30.742]	  "tmux-resurrect" update success
+[2025-11-13 15:21:30.809]	  "tmux-cpu" update success
+[2025-11-13 15:21:30.877]	    | Already up to date.
+[2025-11-13 15:21:30.944]	    | Already up to date.
+[2025-11-13 15:21:31.015]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-13 15:21:31.255]	Done.
+
+[2025-11-17 15:33:43.471]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-17 15:33:43.531]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-17 15:33:43.733]	Already installed "tmux-cpu"
+[2025-11-17 15:33:43.789]	Already installed "tmux-continuum"
+[2025-11-17 15:33:43.846]	Already installed "tmux-resurrect"
+[2025-11-17 15:33:43.920]	Already installed "tmux-df"
+[2025-11-17 15:33:43.979]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-17 15:33:44.142]	Updating all plugins!
+[2025-11-17 15:33:44.194]	
+[2025-11-17 15:34:00.083]	  "tmux-cpu" update success
+[2025-11-17 15:34:00.115]	    | Already up to date.
+[2025-11-17 15:34:00.156]	  "tmux-df" update success
+[2025-11-17 15:34:00.204]	    | Already up to date.
+[2025-11-17 15:34:00.249]	  "tmux-resurrect" update success
+[2025-11-17 15:34:00.280]	    | Already up to date.
+[2025-11-17 15:34:00.319]	  "tmux-continuum" update success
+[2025-11-17 15:34:00.358]	    | Already up to date.
+[2025-11-17 15:34:00.394]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-17 15:34:00.500]	Done.
+
+[2025-11-17 20:30:33.764]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-17 20:30:33.825]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-17 20:30:34.034]	Already installed "tmux-df"
+[2025-11-17 20:30:34.090]	Already installed "tmux-cpu"
+[2025-11-17 20:30:34.145]	Already installed "tmux-resurrect"
+[2025-11-17 20:30:34.197]	Already installed "tmux-continuum"
+[2025-11-17 20:30:34.267]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-17 20:30:34.380]	Updating all plugins!
+[2025-11-17 20:30:34.450]	
+[2025-11-17 20:30:50.287]	  "tmux-cpu" update success
+[2025-11-17 20:30:50.336]	    | Already up to date.
+[2025-11-17 20:30:50.408]	  "tmux-resurrect" update success
+[2025-11-17 20:30:50.494]	    | Already up to date.
+[2025-11-17 20:30:50.569]	  "tmux-continuum" update success
+[2025-11-17 20:30:50.639]	    | Already up to date.
+[2025-11-17 20:30:50.707]	  "tmux-df" update success
+[2025-11-17 20:30:50.802]	    | Already up to date.
+[2025-11-17 20:30:50.932]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-17 20:30:51.255]	Done.
+
+[2025-11-18 12:37:00.372]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-18 12:37:00.410]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-18 12:37:00.513]	Already installed "tmux-cpu"
+[2025-11-18 12:37:00.551]	Already installed "tmux-continuum"
+[2025-11-18 12:37:00.589]	Already installed "tmux-df"
+[2025-11-18 12:37:00.622]	Already installed "tmux-resurrect"
+[2025-11-18 12:37:00.661]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-18 12:37:00.730]	Updating all plugins!
+[2025-11-18 12:37:00.778]	
+[2025-11-18 12:37:16.729]	  "tmux-cpu" update success
+[2025-11-18 12:37:16.763]	    | Already up to date.
+[2025-11-18 12:37:16.793]	  "tmux-continuum" update success
+[2025-11-18 12:37:16.823]	    | Already up to date.
+[2025-11-18 12:37:16.853]	  "tmux-df" update success
+[2025-11-18 12:37:16.884]	    | Already up to date.
+[2025-11-18 12:37:16.914]	  "tmux-resurrect" update success
+[2025-11-18 12:37:16.944]	    | Already up to date.
+[2025-11-18 12:37:16.987]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-18 12:37:17.085]	Done.
+
+[2025-11-18 22:14:28.537]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-18 22:14:28.576]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-18 22:14:28.678]	Already installed "tmux-continuum"
+[2025-11-18 22:14:28.715]	Already installed "tmux-cpu"
+[2025-11-18 22:14:28.752]	Already installed "tmux-df"
+[2025-11-18 22:14:28.784]	Already installed "tmux-resurrect"
+[2025-11-18 22:14:28.824]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-18 22:14:28.895]	Updating all plugins!
+[2025-11-18 22:14:28.947]	
+[2025-11-18 22:14:44.703]	  "tmux-cpu" update success
+[2025-11-18 22:14:44.745]	    | Already up to date.
+[2025-11-18 22:14:44.774]	  "tmux-df" update success
+[2025-11-18 22:14:44.807]	    | Already up to date.
+[2025-11-18 22:14:44.845]	  "tmux-continuum" update success
+[2025-11-18 22:14:44.877]	    | Already up to date.
+[2025-11-18 22:14:44.908]	  "tmux-resurrect" update success
+[2025-11-18 22:14:44.940]	    | Already up to date.
+[2025-11-18 22:14:44.979]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-18 22:14:45.074]	Done.
+
+[2025-11-19 11:57:22.951]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-19 11:57:22.988]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-19 11:57:23.107]	Already installed "tmux-cpu"
+[2025-11-19 11:57:23.139]	Already installed "tmux-continuum"
+[2025-11-19 11:57:23.180]	Already installed "tmux-resurrect"
+[2025-11-19 11:57:23.226]	Already installed "tmux-df"
+[2025-11-19 11:57:23.261]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-19 11:57:23.341]	Updating all plugins!
+[2025-11-19 11:57:23.403]	
+[2025-11-19 11:57:39.288]	  "tmux-resurrect" update success
+[2025-11-19 11:57:39.335]	    | Already up to date.
+[2025-11-19 11:57:39.371]	  "tmux-df" update success
+[2025-11-19 11:57:39.407]	    | Already up to date.
+[2025-11-19 11:57:39.443]	  "tmux-cpu" update success
+[2025-11-19 11:57:39.489]	    | Already up to date.
+[2025-11-19 11:57:39.525]	  "tmux-continuum" update success
+[2025-11-19 11:57:39.562]	    | Already up to date.
+[2025-11-19 11:57:39.597]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-19 11:57:39.713]	Done.
+
+[2025-11-19 13:44:14.875]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-19 13:44:14.909]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-19 13:44:15.022]	Already installed "tmux-cpu"
+[2025-11-19 13:44:15.063]	Already installed "tmux-continuum"
+[2025-11-19 13:44:15.100]	Already installed "tmux-df"
+[2025-11-19 13:44:15.140]	Already installed "tmux-resurrect"
+[2025-11-19 13:44:15.177]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-19 13:44:15.253]	Updating all plugins!
+[2025-11-19 13:44:15.360]	
+[2025-11-19 13:44:31.242]	  "tmux-cpu" update success
+[2025-11-19 13:44:31.390]	    | Already up to date.
+[2025-11-19 13:44:31.629]	  "tmux-continuum" update success
+[2025-11-19 13:44:31.700]	    | Already up to date.
+[2025-11-19 13:44:31.791]	  "tmux-resurrect" update success
+[2025-11-19 13:44:31.898]	    | Already up to date.
+[2025-11-19 13:44:31.999]	  "tmux-df" update success
+[2025-11-19 13:44:32.081]	    | Already up to date.
+[2025-11-19 13:44:32.174]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-19 13:44:32.460]	Done.
+
+[2025-11-20 17:30:15.915]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-20 17:30:15.949]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-20 17:30:16.050]	Already installed "tmux-continuum"
+[2025-11-20 17:30:16.087]	Already installed "tmux-cpu"
+[2025-11-20 17:30:16.125]	Already installed "tmux-df"
+[2025-11-20 17:30:16.157]	Already installed "tmux-resurrect"
+[2025-11-20 17:30:16.197]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-20 17:30:16.264]	Updating all plugins!
+[2025-11-20 17:30:16.312]	
+[2025-11-20 17:30:32.074]	  "tmux-cpu" update success
+[2025-11-20 17:30:32.115]	    | Already up to date.
+[2025-11-20 17:30:32.145]	  "tmux-resurrect" update success
+[2025-11-20 17:30:32.182]	    | Already up to date.
+[2025-11-20 17:30:32.214]	  "tmux-continuum" update success
+[2025-11-20 17:30:32.247]	    | Already up to date.
+[2025-11-20 17:30:32.279]	  "tmux-df" update success
+[2025-11-20 17:30:32.311]	    | Already up to date.
+[2025-11-20 17:30:32.351]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-20 17:30:32.457]	Done.
+
+[2025-11-20 17:30:43.159]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-20 17:30:43.192]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-20 17:30:43.280]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-20 17:30:43.345]	Updating all plugins!
+[2025-11-20 17:30:43.375]	
+[2025-11-20 17:30:43.415]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-20 17:30:43.498]	Removing "tmux-continuum"
+[2025-11-20 17:30:43.528]	  "tmux-continuum" clean success
+[2025-11-20 17:30:43.559]	Removing "tmux-cpu"
+[2025-11-20 17:30:43.589]	  "tmux-cpu" clean success
+[2025-11-20 17:30:43.619]	Removing "tmux-df"
+[2025-11-20 17:30:43.657]	  "tmux-df" clean success
+[2025-11-20 17:30:43.688]	Removing "tmux-resurrect"
+[2025-11-20 17:30:43.726]	  "tmux-resurrect" clean success
+[2025-11-20 17:30:43.760]	Done.
+
+[2025-11-21 13:44:53.473]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-21 13:44:53.547]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-21 13:44:54.174]	Installing "tmux-resurrect"
+[2025-11-21 13:44:54.277]	Installing "tmux-continuum"
+[2025-11-21 13:44:54.396]	Installing "tmux-cpu"
+[2025-11-21 13:44:54.496]	Installing "tmux-df"
+[2025-11-21 13:45:10.215]	  "tmux-df" download success
+[2025-11-21 13:45:10.386]	  "tmux-continuum" download success
+[2025-11-21 13:45:10.538]	  "tmux-cpu" download success
+[2025-11-21 13:45:27.084]	  "tmux-resurrect" download success
+[2025-11-21 13:45:27.124]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-21 13:45:27.192]	Updating all plugins!
+[2025-11-21 13:45:27.241]	
+[2025-11-21 13:45:43.821]	  "tmux-cpu" update success
+[2025-11-21 13:45:44.011]	    | Already up to date.
+[2025-11-21 13:45:44.140]	  "tmux-resurrect" update success
+[2025-11-21 13:45:44.249]	    | Already up to date.
+[2025-11-21 13:45:44.361]	  "tmux-continuum" update success
+[2025-11-21 13:45:44.473]	    | Already up to date.
+[2025-11-21 13:45:44.564]	  "tmux-df" update success
+[2025-11-21 13:45:44.662]	    | Already up to date.
+[2025-11-21 13:45:44.744]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-21 13:45:44.962]	Done.
+
+[2025-11-21 22:45:24.875]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-21 22:45:24.909]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-21 22:45:25.035]	Already installed "tmux-df"
+[2025-11-21 22:45:25.065]	Already installed "tmux-continuum"
+[2025-11-21 22:45:25.096]	Already installed "tmux-cpu"
+[2025-11-21 22:45:25.126]	Already installed "tmux-resurrect"
+[2025-11-21 22:45:25.164]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-21 22:45:25.245]	Updating all plugins!
+[2025-11-21 22:45:25.297]	
+[2025-11-21 22:45:41.150]	  "tmux-df" update success
+[2025-11-21 22:45:41.181]	  "tmux-cpu" update success
+[2025-11-21 22:45:41.213]	    | Already up to date.
+[2025-11-21 22:45:41.242]	    | Already up to date.
+[2025-11-21 22:45:41.272]	  "tmux-continuum" update success
+[2025-11-21 22:45:41.302]	    | Already up to date.
+[2025-11-21 22:45:41.333]	  "tmux-resurrect" update success
+[2025-11-21 22:45:41.369]	    | Already up to date.
+[2025-11-21 22:45:41.403]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-21 22:45:41.507]	Done.
+
+[2025-11-25 17:46:55.920]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-25 17:46:55.959]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-25 17:46:56.061]	Already installed "tmux-df"
+[2025-11-25 17:46:56.092]	Already installed "tmux-cpu"
+[2025-11-25 17:46:56.122]	Already installed "tmux-continuum"
+[2025-11-25 17:46:56.160]	Already installed "tmux-resurrect"
+[2025-11-25 17:46:56.199]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-25 17:46:56.268]	Updating all plugins!
+[2025-11-25 17:46:56.319]	
+[2025-11-25 17:47:12.116]	  "tmux-df" update success
+[2025-11-25 17:47:12.151]	    | Already up to date.
+[2025-11-25 17:47:12.181]	  "tmux-cpu" update success
+[2025-11-25 17:47:12.218]	    | Already up to date.
+[2025-11-25 17:47:12.250]	  "tmux-continuum" update success
+[2025-11-25 17:47:12.287]	    | Already up to date.
+[2025-11-25 17:47:12.319]	  "tmux-resurrect" update success
+[2025-11-25 17:47:12.351]	    | Already up to date.
+[2025-11-25 17:47:12.391]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-25 17:47:12.495]	Done.
+
+[2025-11-26 14:05:52.026]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-26 14:05:52.078]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-26 14:05:52.198]	Already installed "tmux-cpu"
+[2025-11-26 14:05:52.240]	Already installed "tmux-df"
+[2025-11-26 14:05:52.272]	Already installed "tmux-resurrect"
+[2025-11-26 14:05:52.303]	Already installed "tmux-continuum"
+[2025-11-26 14:05:52.340]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-26 14:05:52.414]	Updating all plugins!
+[2025-11-26 14:05:52.473]	
+[2025-11-26 14:06:08.332]	  "tmux-cpu" update success
+[2025-11-26 14:06:08.402]	    | Already up to date.
+[2025-11-26 14:06:08.437]	  "tmux-df" update success
+[2025-11-26 14:06:08.482]	    | Already up to date.
+[2025-11-26 14:06:08.521]	  "tmux-continuum" update success
+[2025-11-26 14:06:08.551]	    | Already up to date.
+[2025-11-26 14:06:08.580]	  "tmux-resurrect" update success
+[2025-11-26 14:06:08.610]	    | Already up to date.
+[2025-11-26 14:06:08.650]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-26 14:06:08.754]	Done.
+
+[2025-11-26 20:50:59.071]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-26 20:50:59.111]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-26 20:50:59.218]	Already installed "tmux-df"
+[2025-11-26 20:50:59.260]	Already installed "tmux-cpu"
+[2025-11-26 20:50:59.308]	Already installed "tmux-continuum"
+[2025-11-26 20:50:59.347]	Already installed "tmux-resurrect"
+[2025-11-26 20:50:59.387]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-26 20:50:59.454]	Updating all plugins!
+[2025-11-26 20:50:59.503]	
+[2025-11-26 20:51:15.299]	  "tmux-resurrect" update success
+[2025-11-26 20:51:15.334]	    | Already up to date.
+[2025-11-26 20:51:15.364]	  "tmux-df" update success
+[2025-11-26 20:51:15.394]	    | Already up to date.
+[2025-11-26 20:51:15.424]	  "tmux-cpu" update success
+[2025-11-26 20:51:15.454]	    | Already up to date.
+[2025-11-26 20:51:15.489]	  "tmux-continuum" update success
+[2025-11-26 20:51:15.523]	    | Already up to date.
+[2025-11-26 20:51:15.555]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-26 20:51:15.658]	Done.
+
+[2025-11-27 14:13:48.162]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-27 14:13:48.203]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-27 14:13:48.347]	Already installed "tmux-cpu"
+[2025-11-27 14:13:48.405]	Already installed "tmux-df"
+[2025-11-27 14:13:48.442]	Already installed "tmux-continuum"
+[2025-11-27 14:13:48.478]	Already installed "tmux-resurrect"
+[2025-11-27 14:13:48.526]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-27 14:13:48.615]	Updating all plugins!
+[2025-11-27 14:13:48.682]	
+[2025-11-27 14:14:04.426]	  "tmux-resurrect" update success
+[2025-11-27 14:14:04.478]	    | Already up to date.
+[2025-11-27 14:14:04.521]	  "tmux-continuum" update success
+[2025-11-27 14:14:04.551]	    | Already up to date.
+[2025-11-27 14:14:04.587]	  "tmux-cpu" update success
+[2025-11-27 14:14:04.625]	    | Already up to date.
+[2025-11-27 14:14:04.657]	  "tmux-df" update success
+[2025-11-27 14:14:04.696]	    | Already up to date.
+[2025-11-27 14:14:04.730]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-27 14:14:04.835]	Done.
+
+[2025-11-28 12:24:37.038]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-28 12:24:37.070]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-28 12:24:37.175]	Already installed "tmux-df"
+[2025-11-28 12:24:37.206]	Already installed "tmux-cpu"
+[2025-11-28 12:24:37.244]	Already installed "tmux-continuum"
+[2025-11-28 12:24:37.280]	Already installed "tmux-resurrect"
+[2025-11-28 12:24:37.312]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-28 12:24:37.382]	Updating all plugins!
+[2025-11-28 12:24:37.432]	
+[2025-11-28 12:24:53.225]	  "tmux-continuum" update success
+[2025-11-28 12:24:53.270]	    | Already up to date.
+[2025-11-28 12:24:53.302]	  "tmux-cpu" update success
+[2025-11-28 12:24:53.339]	    | Already up to date.
+[2025-11-28 12:24:53.372]	  "tmux-resurrect" update success
+[2025-11-28 12:24:53.404]	  "tmux-df" update success
+[2025-11-28 12:24:53.443]	    | Already up to date.
+[2025-11-28 12:24:53.476]	    | Already up to date.
+[2025-11-28 12:24:53.518]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-28 12:24:53.622]	Done.
+
+[2025-11-28 12:46:08.879]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-28 12:46:08.910]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-28 12:46:09.011]	Already installed "tmux-cpu"
+[2025-11-28 12:46:09.042]	Already installed "tmux-continuum"
+[2025-11-28 12:46:09.073]	Already installed "tmux-resurrect"
+[2025-11-28 12:46:09.105]	Already installed "tmux-df"
+[2025-11-28 12:46:09.138]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-28 12:46:09.205]	Updating all plugins!
+[2025-11-28 12:46:09.254]	
+[2025-11-28 12:46:24.961]	  "tmux-cpu" update success
+[2025-11-28 12:46:25.008]	    | Already up to date.
+[2025-11-28 12:46:25.089]	  "tmux-continuum" update success
+[2025-11-28 12:46:25.118]	    | Already up to date.
+[2025-11-28 12:46:25.148]	  "tmux-df" update success
+[2025-11-28 12:46:25.179]	    | Already up to date.
+[2025-11-28 12:46:25.209]	  "tmux-resurrect" update success
+[2025-11-28 12:46:25.238]	    | Already up to date.
+[2025-11-28 12:46:25.278]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-28 12:46:25.382]	Done.
+
+[2025-11-28 15:46:11.267]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-11-28 15:46:11.305]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-28 15:46:11.406]	Already installed "tmux-continuum"
+[2025-11-28 15:46:11.443]	Already installed "tmux-df"
+[2025-11-28 15:46:11.473]	Already installed "tmux-cpu"
+[2025-11-28 15:46:11.510]	Already installed "tmux-resurrect"
+[2025-11-28 15:46:11.543]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-28 15:46:11.610]	Updating all plugins!
+[2025-11-28 15:46:11.657]	
+[2025-11-28 15:46:28.338]	  "tmux-df" update success
+[2025-11-28 15:46:28.699]	    | Already up to date.
+[2025-11-28 15:46:29.343]	  "tmux-continuum" update success
+[2025-11-28 15:46:29.534]	    | Already up to date.
+[2025-11-28 15:46:29.647]	  "tmux-cpu" update success
+[2025-11-28 15:46:29.820]	  "tmux-resurrect" update success
+[2025-11-28 15:46:29.982]	    | Already up to date.
+[2025-11-28 15:46:30.135]	    | Already up to date.
+[2025-11-28 15:46:30.638]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-28 15:46:31.300]	Done.
+
+[2025-12-04 19:44:33.838]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-04 19:44:33.876]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-04 19:44:33.979]	Already installed "tmux-continuum"
+[2025-12-04 19:44:34.009]	Already installed "tmux-cpu"
+[2025-12-04 19:44:34.046]	Already installed "tmux-df"
+[2025-12-04 19:44:34.079]	Already installed "tmux-resurrect"
+[2025-12-04 19:44:34.119]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-04 19:44:34.188]	Updating all plugins!
+[2025-12-04 19:44:34.237]	
+[2025-12-04 19:44:50.019]	  "tmux-resurrect" update success
+[2025-12-04 19:44:50.077]	    | Already up to date.
+[2025-12-04 19:44:50.109]	  "tmux-continuum" update success
+[2025-12-04 19:44:50.139]	    | Already up to date.
+[2025-12-04 19:44:50.170]	  "tmux-cpu" update success
+[2025-12-04 19:44:50.217]	    | Already up to date.
+[2025-12-04 19:44:50.248]	  "tmux-df" update success
+[2025-12-04 19:44:50.279]	    | Already up to date.
+[2025-12-04 19:44:50.312]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-04 19:44:50.411]	Done.
+
+[2025-12-11 11:49:58.121]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-11 11:49:58.158]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-11 11:49:58.265]	Already installed "tmux-cpu"
+[2025-12-11 11:49:58.302]	Already installed "tmux-continuum"
+[2025-12-11 11:49:58.333]	Already installed "tmux-df"
+[2025-12-11 11:49:58.364]	Already installed "tmux-resurrect"
+[2025-12-11 11:49:58.395]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-11 11:49:58.469]	Updating all plugins!
+[2025-12-11 11:49:58.523]	
+[2025-12-11 11:50:14.331]	  "tmux-cpu" update success
+[2025-12-11 11:50:14.374]	    | Already up to date.
+[2025-12-11 11:50:14.408]	  "tmux-df" update success
+[2025-12-11 11:50:14.441]	    | Already up to date.
+[2025-12-11 11:50:14.478]	  "tmux-continuum" update success
+[2025-12-11 11:50:14.511]	    | Already up to date.
+[2025-12-11 11:50:14.542]	  "tmux-resurrect" update success
+[2025-12-11 11:50:14.572]	    | Already up to date.
+[2025-12-11 11:50:14.603]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-11 11:50:14.656]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-12-11 11:50:14.691]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-12-11 11:50:14.730]	Aborting.
+[2025-12-11 11:50:14.780]	Done.
+
+[2025-12-11 12:03:19.557]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-11 12:03:19.589]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-11 12:03:19.692]	Already installed "tmux-resurrect"
+[2025-12-11 12:03:19.722]	Already installed "tmux-cpu"
+[2025-12-11 12:03:19.757]	Already installed "tmux-df"
+[2025-12-11 12:03:19.788]	Already installed "tmux-continuum"
+[2025-12-11 12:03:19.820]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-11 12:03:19.897]	Updating all plugins!
+[2025-12-11 12:03:19.959]	
+[2025-12-11 12:03:35.697]	  "tmux-resurrect" update success
+[2025-12-11 12:03:35.737]	    | Already up to date.
+[2025-12-11 12:03:35.771]	  "tmux-cpu" update success
+[2025-12-11 12:03:35.802]	    | Already up to date.
+[2025-12-11 12:03:35.833]	  "tmux-continuum" update success
+[2025-12-11 12:03:35.864]	    | Already up to date.
+[2025-12-11 12:03:36.096]	  "tmux-df" update success
+[2025-12-11 12:03:36.126]	    | Already up to date.
+[2025-12-11 12:03:36.158]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-11 12:03:36.256]	Done.
+
+[2025-12-12 11:30:00.770]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-12 11:30:00.803]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 11:30:00.907]	Already installed "tmux-continuum"
+[2025-12-12 11:30:00.937]	Already installed "tmux-cpu"
+[2025-12-12 11:30:00.968]	Already installed "tmux-resurrect"
+[2025-12-12 11:30:00.999]	Already installed "tmux-df"
+[2025-12-12 11:30:01.032]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 11:30:01.099]	Updating all plugins!
+[2025-12-12 11:30:01.151]	
+[2025-12-12 11:30:17.017]	  "tmux-continuum" update success
+[2025-12-12 11:30:17.058]	  "tmux-resurrect" update success
+[2025-12-12 11:30:17.090]	    | Already up to date.
+[2025-12-12 11:30:17.120]	    | Already up to date.
+[2025-12-12 11:30:17.153]	  "tmux-df" update success
+[2025-12-12 11:30:17.183]	    | Already up to date.
+[2025-12-12 11:30:17.213]	  "tmux-cpu" update success
+[2025-12-12 11:30:17.247]	    | Already up to date.
+[2025-12-12 11:30:17.279]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 11:30:17.383]	Done.
+
+[2025-12-12 21:26:11.816]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-12 21:26:11.853]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 21:26:11.955]	Already installed "tmux-cpu"
+[2025-12-12 21:26:11.990]	Already installed "tmux-resurrect"
+[2025-12-12 21:26:12.021]	Already installed "tmux-continuum"
+[2025-12-12 21:26:12.052]	Already installed "tmux-df"
+[2025-12-12 21:26:12.082]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 21:26:12.151]	Updating all plugins!
+[2025-12-12 21:26:12.200]	
+[2025-12-12 21:26:19.375]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-12 21:26:19.406]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 21:26:19.510]	Already installed "tmux-cpu"
+[2025-12-12 21:26:19.539]	Already installed "tmux-df"
+[2025-12-12 21:26:19.569]	Already installed "tmux-continuum"
+[2025-12-12 21:26:19.599]	Already installed "tmux-resurrect"
+[2025-12-12 21:26:19.634]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 21:26:19.711]	Updating all plugins!
+[2025-12-12 21:26:19.760]	
+[2025-12-12 21:26:27.170]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-12 21:26:27.209]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 21:26:27.328]	Already installed "tmux-continuum"
+[2025-12-12 21:26:27.359]	Already installed "tmux-resurrect"
+[2025-12-12 21:26:27.388]	Already installed "tmux-df"
+[2025-12-12 21:26:27.419]	Already installed "tmux-cpu"
+[2025-12-12 21:26:27.455]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 21:26:27.527]	Updating all plugins!
+[2025-12-12 21:26:27.585]	
+[2025-12-12 21:26:27.961]	  "tmux-cpu" update success
+[2025-12-12 21:26:28.005]	    | Already up to date.
+[2025-12-12 21:26:28.038]	  "tmux-continuum" update success
+[2025-12-12 21:26:28.068]	    | Already up to date.
+[2025-12-12 21:26:28.106]	  "tmux-resurrect" update success
+[2025-12-12 21:26:28.136]	    | Already up to date.
+[2025-12-12 21:26:28.180]	  "tmux-df" update success
+[2025-12-12 21:26:28.216]	    | Already up to date.
+[2025-12-12 21:26:28.246]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 21:26:28.342]	Done.
+
+[2025-12-12 21:26:35.623]	  "tmux-resurrect" update success
+[2025-12-12 21:26:35.653]	    | Already up to date.
+[2025-12-12 21:26:35.687]	  "tmux-continuum" update success
+[2025-12-12 21:26:35.717]	    | Already up to date.
+[2025-12-12 21:26:35.748]	  "tmux-df" update success
+[2025-12-12 21:26:35.785]	  "tmux-cpu" update success
+[2025-12-12 21:26:35.816]	    | Already up to date.
+[2025-12-12 21:26:35.853]	    | Already up to date.
+[2025-12-12 21:26:35.886]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 21:26:35.969]	Removing "tmux-continuum"
+[2025-12-12 21:26:36.001]	  "tmux-continuum" clean success
+[2025-12-12 21:26:36.030]	Removing "tmux-cpu"
+[2025-12-12 21:26:36.060]	  "tmux-cpu" clean success
+[2025-12-12 21:26:36.090]	Removing "tmux-df"
+[2025-12-12 21:26:36.120]	  "tmux-df" clean success
+[2025-12-12 21:26:36.162]	Removing "tmux-resurrect"
+[2025-12-12 21:26:36.196]	  "tmux-resurrect" clean success
+[2025-12-12 21:26:36.232]	Done.
+
+[2025-12-12 21:26:43.257]	  "tmux-cpu" update fail
+[2025-12-12 21:26:43.288]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-12 21:26:43.325]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-12 21:26:43.364]	  "tmux-df" update fail
+[2025-12-12 21:26:43.401]	  "tmux-resurrect" update fail
+[2025-12-12 21:26:43.438]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-12 21:26:43.469]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-12 21:26:43.501]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-12 21:26:43.555]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-12 21:26:43.594]	  "tmux-continuum" update fail
+[2025-12-12 21:26:43.626]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-12 21:26:43.658]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-12 21:26:43.691]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 21:26:43.732]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-12-12 21:26:43.768]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-12-12 21:26:43.835]	shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-12-12 21:26:43.897]	chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+[2025-12-12 21:26:43.992]	Done.
+
+[2025-12-13 11:34:34.167]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-13 11:34:34.206]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-13 11:34:34.323]	Installing "tmux-cpu"
+[2025-12-13 11:34:34.352]	Installing "tmux-resurrect"
+[2025-12-13 11:34:34.381]	Installing "tmux-continuum"
+[2025-12-13 11:34:34.411]	Installing "tmux-df"
+[2025-12-13 11:34:48.888]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-13 11:34:48.927]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-13 11:34:50.328]	  "tmux-continuum" download success
+[2025-12-13 11:34:50.437]	  "tmux-df" download success
+[2025-12-13 11:34:50.565]	  "tmux-cpu" download success
+[2025-12-13 11:34:50.853]	Already installed "tmux-continuum"
+[2025-12-13 11:34:50.884]	Already installed "tmux-df"
+[2025-12-13 11:34:50.915]	Already installed "tmux-cpu"
+[2025-12-13 11:34:50.946]	Already installed "tmux-resurrect"
+[2025-12-13 11:34:50.978]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-13 11:34:51.822]	Updating all plugins!
+[2025-12-13 11:34:51.866]	
+[2025-12-13 11:35:06.570]	  "tmux-resurrect" download success
+[2025-12-13 11:35:06.610]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-13 11:35:06.678]	Updating all plugins!
+[2025-12-13 11:35:06.729]	
+[2025-12-13 11:35:08.531]	  "tmux-resurrect" update success
+[2025-12-13 11:35:08.561]	    | Already up to date.
+[2025-12-13 11:35:08.613]	  "tmux-continuum" update success
+[2025-12-13 11:35:08.699]	    | Already up to date.
+[2025-12-13 11:35:08.795]	  "tmux-df" update success
+[2025-12-13 11:35:08.848]	    | Already up to date.
+[2025-12-13 11:35:08.896]	  "tmux-cpu" update success
+[2025-12-13 11:35:08.927]	    | Already up to date.
+[2025-12-13 11:35:08.958]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-13 11:35:09.066]	Done.
+
+[2025-12-13 11:35:21.952]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-13 11:35:21.991]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-13 11:35:22.077]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-13 11:35:22.145]	Updating all plugins!
+[2025-12-13 11:35:22.175]	
+[2025-12-13 11:35:22.206]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-13 11:35:22.293]	Removing "tmux-continuum"
+[2025-12-13 11:35:22.326]	  "tmux-continuum" clean success
+[2025-12-13 11:35:22.359]	Removing "tmux-cpu"
+[2025-12-13 11:35:22.379]	  "tmux-continuum" update fail
+[2025-12-13 11:35:22.391]	  "tmux-cpu" clean success
+[2025-12-13 11:35:22.410]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-13 11:35:22.421]	Removing "tmux-df"
+[2025-12-13 11:35:22.443]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-13 11:35:22.454]	  "tmux-df" clean success
+[2025-12-13 11:35:22.475]	  "tmux-df" update fail
+[2025-12-13 11:35:22.486]	Removing "tmux-resurrect"
+[2025-12-13 11:35:22.523]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-13 11:35:22.537]	  "tmux-resurrect" clean success
+[2025-12-13 11:35:22.598]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-13 11:35:22.615]	Done.
+
+[2025-12-13 11:35:22.665]	  "tmux-cpu" update fail
+[2025-12-13 11:35:22.752]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-13 11:35:22.807]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-13 11:35:22.841]	  "tmux-resurrect" update fail
+[2025-12-13 11:35:22.872]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-13 11:35:22.902]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-13 11:35:22.932]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-13 11:35:23.014]	Done.
+
+[2025-12-13 11:35:23.916]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-13 11:35:23.956]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-13 11:35:24.051]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-13 11:35:24.173]	Updating all plugins!
+[2025-12-13 11:35:24.253]	
+[2025-12-13 11:35:24.313]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-13 11:35:24.396]	Done.
+
+[2025-12-13 11:35:29.901]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-13 11:35:29.952]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-13 11:35:30.083]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-13 11:35:30.185]	Updating all plugins!
+[2025-12-13 11:35:30.241]	
+[2025-12-13 11:35:30.282]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-13 11:35:30.387]	Done.
+
+[2025-12-15 10:52:04.720]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-15 10:52:04.759]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 10:52:04.875]	Installing "tmux-cpu"
+[2025-12-15 10:52:04.950]	Installing "tmux-resurrect"
+[2025-12-15 10:52:05.010]	Installing "tmux-continuum"
+[2025-12-15 10:52:05.058]	Installing "tmux-df"
+[2025-12-15 10:52:21.104]	  "tmux-continuum" download success
+[2025-12-15 10:52:21.215]	  "tmux-df" download success
+[2025-12-15 10:52:21.539]	  "tmux-cpu" download success
+[2025-12-15 10:52:37.847]	  "tmux-resurrect" download success
+[2025-12-15 10:52:37.879]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 10:52:37.951]	Updating all plugins!
+[2025-12-15 10:52:38.000]	
+[2025-12-15 10:52:53.746]	  "tmux-resurrect" update success
+[2025-12-15 10:52:53.779]	    | Already up to date.
+[2025-12-15 10:52:53.808]	  "tmux-continuum" update success
+[2025-12-15 10:52:53.838]	    | Already up to date.
+[2025-12-15 10:52:53.867]	  "tmux-df" update success
+[2025-12-15 10:52:53.897]	    | Already up to date.
+[2025-12-15 10:52:53.933]	  "tmux-cpu" update success
+[2025-12-15 10:52:53.963]	    | Already up to date.
+[2025-12-15 10:52:54.003]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 10:52:54.100]	Done.
+
+[2025-12-15 10:52:55.350]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-15 10:52:55.404]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 10:52:55.489]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 10:52:55.553]	Updating all plugins!
+[2025-12-15 10:52:55.582]	
+[2025-12-15 10:52:55.620]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 10:52:55.701]	Removing "tmux-continuum"
+[2025-12-15 10:52:55.731]	  "tmux-continuum" clean success
+[2025-12-15 10:52:55.761]	Removing "tmux-cpu"
+[2025-12-15 10:52:55.798]	  "tmux-cpu" clean success
+[2025-12-15 10:52:55.834]	Removing "tmux-df"
+[2025-12-15 10:52:55.864]	  "tmux-df" clean success
+[2025-12-15 10:52:55.899]	Removing "tmux-resurrect"
+[2025-12-15 10:52:55.935]	  "tmux-resurrect" clean success
+[2025-12-15 10:52:55.973]	Done.
+
+[2025-12-15 12:54:48.157]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-15 12:54:48.248]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 12:54:48.509]	Installing "tmux-continuum"
+[2025-12-15 12:54:48.552]	Installing "tmux-resurrect"
+[2025-12-15 12:54:48.600]	Installing "tmux-df"
+[2025-12-15 12:54:48.637]	Installing "tmux-cpu"
+[2025-12-15 12:55:04.667]	  "tmux-df" download success
+[2025-12-15 12:55:04.723]	  "tmux-continuum" download success
+[2025-12-15 12:55:04.829]	  "tmux-cpu" download success
+[2025-12-15 12:55:20.134]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-15 12:55:20.165]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 12:55:20.259]	Already installed "tmux-cpu"
+[2025-12-15 12:55:20.301]	Already installed "tmux-continuum"
+[2025-12-15 12:55:20.336]	Already installed "tmux-df"
+[2025-12-15 12:55:20.374]	Already installed "tmux-resurrect"
+[2025-12-15 12:55:20.406]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 12:55:20.477]	Updating all plugins!
+[2025-12-15 12:55:20.527]	
+[2025-12-15 12:55:21.475]	  "tmux-resurrect" download success
+[2025-12-15 12:55:21.514]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 12:55:21.583]	Updating all plugins!
+[2025-12-15 12:55:21.631]	
+[2025-12-15 12:55:36.968]	  "tmux-cpu" update success
+[2025-12-15 12:55:37.009]	  "tmux-resurrect" update success
+[2025-12-15 12:55:37.049]	    | Already up to date.
+[2025-12-15 12:55:37.083]	    | Already up to date.
+[2025-12-15 12:55:37.118]	  "tmux-continuum" update success
+[2025-12-15 12:55:37.156]	    | Already up to date.
+[2025-12-15 12:55:37.197]	  "tmux-df" update success
+[2025-12-15 12:55:37.232]	    | Already up to date.
+[2025-12-15 12:55:37.274]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 12:55:37.403]	Done.
+
+[2025-12-15 12:55:37.481]	  "tmux-resurrect" update success
+[2025-12-15 12:55:37.511]	    | Already up to date.
+[2025-12-15 12:55:37.550]	  "tmux-cpu" update success
+[2025-12-15 12:55:37.593]	    | Already up to date.
+[2025-12-15 12:55:37.638]	  "tmux-df" update success
+[2025-12-15 12:55:37.642]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-15 12:55:37.670]	    | Already up to date.
+[2025-12-15 12:55:37.675]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 12:55:37.755]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 12:55:37.819]	Updating all plugins!
+[2025-12-15 12:55:37.849]	
+[2025-12-15 12:55:37.882]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 12:55:37.970]	Removing "tmux-continuum"
+[2025-12-15 12:55:38.003]	  "tmux-continuum" clean success
+[2025-12-15 12:55:38.033]	Removing "tmux-cpu"
+[2025-12-15 12:55:38.072]	  "tmux-cpu" clean success
+[2025-12-15 12:55:38.110]	Removing "tmux-df"
+[2025-12-15 12:55:38.151]	  "tmux-df" clean success
+[2025-12-15 12:55:38.188]	Removing "tmux-resurrect"
+[2025-12-15 12:55:38.228]	  "tmux-resurrect" clean success
+[2025-12-15 12:55:38.259]	Done.
+
+[2025-12-15 12:55:38.445]	  "tmux-continuum" update fail
+[2025-12-15 12:55:38.476]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-15 12:55:38.514]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-15 12:55:38.546]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 12:55:38.632]	Done.
+
+[2025-12-15 12:55:48.300]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-15 12:55:48.339]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 12:55:48.430]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 12:55:48.497]	Updating all plugins!
+[2025-12-15 12:55:48.527]	
+[2025-12-15 12:55:48.565]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 12:55:48.653]	Done.
+
+[2025-12-16 12:11:35.417]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:11:35.457]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:11:36.453]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-12-16 12:11:36.486]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-12-16 12:11:36.516]	Aborting.
+[2025-12-16 12:11:36.547]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:11:37.399]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-12-16 12:11:37.443]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-12-16 12:11:37.473]	Aborting.
+[2025-12-16 12:11:37.504]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:11:38.640]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-12-16 12:11:38.713]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-12-16 12:11:38.793]	Aborting.
+[2025-12-16 12:11:38.841]	Done.
+
+[2025-12-16 12:11:51.453]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:11:51.492]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:11:51.609]	Installing "tmux-resurrect"
+[2025-12-16 12:11:51.640]	Installing "tmux-continuum"
+[2025-12-16 12:11:51.670]	Installing "tmux-cpu"
+[2025-12-16 12:11:51.707]	Installing "tmux-df"
+[2025-12-16 12:12:07.885]	  "tmux-df" download success
+[2025-12-16 12:12:08.440]	  "tmux-continuum" download success
+[2025-12-16 12:12:08.618]	  "tmux-cpu" download success
+[2025-12-16 12:12:11.226]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:12:11.261]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:12:11.369]	Already installed "tmux-cpu"
+[2025-12-16 12:12:11.399]	Already installed "tmux-df"
+[2025-12-16 12:12:11.429]	Already installed "tmux-continuum"
+[2025-12-16 12:12:11.459]	Already installed "tmux-resurrect"
+[2025-12-16 12:12:11.490]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:12:11.598]	Updating all plugins!
+[2025-12-16 12:12:11.665]	
+[2025-12-16 12:12:26.940]	  "tmux-resurrect" download success
+[2025-12-16 12:12:26.987]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:12:27.528]	  "tmux-cpu" update success
+[2025-12-16 12:12:27.575]	    | Already up to date.
+[2025-12-16 12:12:27.657]	  "tmux-resurrect" update success
+[2025-12-16 12:12:27.710]	    | Already up to date.
+[2025-12-16 12:12:27.754]	  "tmux-df" update success
+[2025-12-16 12:12:27.809]	    | Already up to date.
+[2025-12-16 12:12:27.858]	  "tmux-continuum" update success
+[2025-12-16 12:12:27.899]	    | Already up to date.
+[2025-12-16 12:12:27.950]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:12:28.017]	Updating all plugins!
+[2025-12-16 12:12:28.072]	
+[2025-12-16 12:12:28.125]	Removing "tmux-continuum"
+[2025-12-16 12:12:28.171]	  "tmux-continuum" clean success
+[2025-12-16 12:12:28.209]	Removing "tmux-cpu"
+[2025-12-16 12:12:28.250]	  "tmux-cpu" clean success
+[2025-12-16 12:12:28.299]	Removing "tmux-df"
+[2025-12-16 12:12:28.349]	  "tmux-df" clean success
+[2025-12-16 12:12:28.396]	Removing "tmux-resurrect"
+[2025-12-16 12:12:28.438]	  "tmux-resurrect" clean success
+[2025-12-16 12:12:28.485]	Done.
+
+[2025-12-16 12:12:29.035]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:12:30.785]	Done.
+
+[2025-12-16 12:12:42.924]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:12:42.956]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:12:43.071]	Installing "tmux-cpu"
+[2025-12-16 12:12:43.100]	Installing "tmux-resurrect"
+[2025-12-16 12:12:43.130]	Installing "tmux-continuum"
+[2025-12-16 12:12:43.160]	Installing "tmux-df"
+[2025-12-16 12:13:00.142]	  "tmux-df" download success
+[2025-12-16 12:13:00.323]	  "tmux-continuum" download success
+[2025-12-16 12:13:00.338]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:13:00.373]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:13:00.474]	Already installed "tmux-cpu"
+[2025-12-16 12:13:00.504]	Already installed "tmux-resurrect"
+[2025-12-16 12:13:00.542]	Already installed "tmux-df"
+[2025-12-16 12:13:00.580]	Already installed "tmux-continuum"
+[2025-12-16 12:13:00.645]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:13:00.787]	Updating all plugins!
+[2025-12-16 12:13:00.862]	
+[2025-12-16 12:13:01.207]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:13:01.284]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:13:01.509]	Already installed "tmux-df"
+[2025-12-16 12:13:01.552]	Already installed "tmux-cpu"
+[2025-12-16 12:13:01.583]	Already installed "tmux-continuum"
+[2025-12-16 12:13:01.598]	  "tmux-cpu" download success
+[2025-12-16 12:13:01.615]	Already installed "tmux-resurrect"
+[2025-12-16 12:13:01.646]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:13:01.720]	Updating all plugins!
+[2025-12-16 12:13:01.772]	
+[2025-12-16 12:13:02.085]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:13:02.125]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:13:02.226]	Already installed "tmux-cpu"
+[2025-12-16 12:13:02.261]	Already installed "tmux-resurrect"
+[2025-12-16 12:13:02.299]	Already installed "tmux-df"
+[2025-12-16 12:13:02.339]	Already installed "tmux-continuum"
+[2025-12-16 12:13:02.373]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:13:02.442]	Updating all plugins!
+[2025-12-16 12:13:02.491]	
+[2025-12-16 12:13:11.694]	List of discovered tpm plugins: tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tassaron/tmux-df
+[2025-12-16 12:13:11.726]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 12:13:11.827]	Already installed "tmux-cpu"
+[2025-12-16 12:13:11.857]	Already installed "tmux-resurrect"
+[2025-12-16 12:13:11.887]	Already installed "tmux-continuum"
+[2025-12-16 12:13:11.918]	Already installed "tmux-df"
+[2025-12-16 12:13:11.958]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:13:12.026]	Updating all plugins!
+[2025-12-16 12:13:12.073]	
+[2025-12-16 12:13:16.602]	  "tmux-resurrect" update fail
+[2025-12-16 12:13:16.642]	    | error: The following untracked working tree files would be overwritten by merge:
+[2025-12-16 12:13:16.676]	    | 	.gitattributes
+[2025-12-16 12:13:16.710]	    | 	.gitignore
+[2025-12-16 12:13:16.743]	    | 	.gitmodules
+[2025-12-16 12:13:16.777]	    | 	.travis.yml
+[2025-12-16 12:13:16.807]	    | 	CHANGELOG.md
+[2025-12-16 12:13:16.838]	    | 	CONTRIBUTING.md
+[2025-12-16 12:13:16.884]	    | 	LICENSE.md
+[2025-12-16 12:13:16.917]	    | 	README.md
+[2025-12-16 12:13:16.956]	    | 	docs/custom_key_bindings.md
+[2025-12-16 12:13:16.986]	    | 	docs/hooks.md
+[2025-12-16 12:13:17.022]	    | 	docs/migrating_from_tmuxinator.md
+[2025-12-16 12:13:17.060]	    | 	docs/restoring_bash_history.md
+[2025-12-16 12:13:17.092]	    | 	docs/restoring_pane_contents.md
+[2025-12-16 12:13:17.130]	    | 	docs/restoring_previously_saved_environment.md
+[2025-12-16 12:13:17.163]	    | 	docs/restoring_programs.md
+[2025-12-16 12:13:17.200]	    | 	docs/restoring_vim_and_neovim_sessions.md
+[2025-12-16 12:13:17.230]	    | 	docs/save_dir.md
+[2025-12-16 12:13:17.260]	    | 	resurrect.tmux
+[2025-12-16 12:13:17.298]	    | 	run_tests
+[2025-12-16 12:13:17.336]	    | 	save_command_strategies/gdb.sh
+[2025-12-16 12:13:17.372]	    | 	save_command_strategies/linux_procfs.sh
+[2025-12-16 12:13:17.412]	    | 	save_command_strategies/pgrep.sh
+[2025-12-16 12:13:17.459]	    | 	save_command_strategies/ps.sh
+[2025-12-16 12:13:17.520]	    | 	scripts/check_tmux_version.sh
+[2025-12-16 12:13:17.545]	  "tmux-resurrect" update fail
+[2025-12-16 12:13:17.593]	    | Already up to date.
+[2025-12-16 12:13:17.598]	    | 	scripts/helpers.sh
+[2025-12-16 12:13:17.652]	    | 	scripts/process_restore_helpers.sh
+[2025-12-16 12:13:17.663]	    | fatal: Unable to find current revision in submodule path 'lib/tmux-test'
+[2025-12-16 12:13:17.688]	    | 	scripts/restore.exp
+[2025-12-16 12:13:17.696]	  "tmux-continuum" update success
+[2025-12-16 12:13:17.718]	    | 	scripts/restore.sh
+[2025-12-16 12:13:17.728]	    | Already up to date.
+[2025-12-16 12:13:17.748]	    | 	scripts/save.sh
+[2025-12-16 12:13:17.758]	  "tmux-cpu" update success
+[2025-12-16 12:13:17.779]	    | 	scripts/spinner_helpers.sh
+[2025-12-16 12:13:17.788]	    | Already up to date.
+[2025-12-16 12:13:17.810]	    | 	scripts/tmux_spinner.sh
+[2025-12-16 12:13:17.822]	  "tmux-df" update success
+[2025-12-16 12:13:17.843]	    | 	scripts/variables.sh
+[2025-12-16 12:13:17.854]	    | Already up to date.
+[2025-12-16 12:13:17.874]	    | 	strategies/irb_default_strategy.sh
+[2025-12-16 12:13:17.886]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:13:17.911]	    | 	strategies/mosh-client_default_strategy.sh
+[2025-12-16 12:13:17.955]	    | 	strategies/nvim_session.sh
+[2025-12-16 12:13:17.984]	  "tmux-resurrect" download success
+[2025-12-16 12:13:17.997]	    | 	strategies/vim_session.sh
+[2025-12-16 12:13:18.013]	Done.
+
+[2025-12-16 12:13:18.027]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 12:13:18.040]	    | 	tests/fixtures/restore_file.txt
+[2025-12-16 12:13:18.078]	    | 	tests/fixtures/save_file.txt
+[2025-12-16 12:13:18.093]	Updating all plugins!
+[2025-12-16 12:13:18.108]	    | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2025-12-16 12:13:18.123]	
+[2025-12-16 12:13:18.139]	    | 	tests/helpers/expect_helpers.exp
+[2025-12-16 12:13:18.155]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:13:18.170]	    | 	tests/helpers/helpers.sh
+[2025-12-16 12:13:18.241]	    | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2025-12-16 12:13:18.327]	Removing "tmux-continuum"
+[2025-12-16 12:13:18.333]	    | 	tests/helpers/resurrect_helpers.sh
+[2025-12-16 12:13:18.380]	  "tmux-resurrect" update success
+[2025-12-16 12:13:18.384]	    | 	tests/run_tests_in_isolation
+[2025-12-16 12:13:18.391]	  "tmux-continuum" clean success
+[2025-12-16 12:13:18.415]	  "tmux-continuum" update fail
+[2025-12-16 12:13:18.426]	    | 	tests/test_resurrect_restore.sh
+[2025-12-16 12:13:18.438]	Removing "tmux-cpu"
+[2025-12-16 12:13:18.449]	    | Already up to date.
+[2025-12-16 12:13:18.467]	    | 	tests/test_resurrect_save.sh
+[2025-12-16 12:13:18.489]	  "tmux-cpu" clean success
+[2025-12-16 12:13:18.521]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-16 12:13:18.542]	Removing "tmux-df"
+[2025-12-16 12:13:18.555]	    | 	video/issue_vid.png
+[2025-12-16 12:13:18.607]	  "tmux-df" clean success
+[2025-12-16 12:13:18.620]	    | Already up to date.
+[2025-12-16 12:13:18.657]	    | 	video/screencast_img.png
+[2025-12-16 12:13:18.688]	Removing "tmux-resurrect"
+[2025-12-16 12:13:18.703]	  "tmux-cpu" update fail
+[2025-12-16 12:13:18.719]	    | 	video/script.md
+[2025-12-16 12:13:18.779]	    | Already up to date.
+[2025-12-16 12:13:18.785]	  "tmux-resurrect" clean success
+[2025-12-16 12:13:18.797]	    | Please move or remove them before you merge.
+[2025-12-16 12:13:18.839]	    | fatal: /usr/lib/git-core/git-submodule cannot be used without a working tree.
+[2025-12-16 12:13:18.856]	    | Aborting
+[2025-12-16 12:13:18.859]	Done.
+
+[2025-12-16 12:13:18.900]	  "tmux-df" update fail
+[2025-12-16 12:13:18.931]	  "tmux-cpu" update fail
+[2025-12-16 12:13:18.942]	    | Already up to date.
+[2025-12-16 12:13:18.962]	    | error: The following untracked working tree files would be overwritten by merge:
+[2025-12-16 12:13:18.973]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-16 12:13:18.992]	    | 	.editorconfig
+[2025-12-16 12:13:19.003]	    | fatal: /usr/lib/git-core/git-submodule cannot be used without a working tree.
+[2025-12-16 12:13:19.024]	    | 	.github/workflows/check.yml
+[2025-12-16 12:13:19.036]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:13:19.055]	    | 	.mailmap
+[2025-12-16 12:13:19.091]	    | 	LICENSE
+[2025-12-16 12:13:19.119]	Done.
+
+[2025-12-16 12:13:19.121]	    | 	README.md
+[2025-12-16 12:13:19.156]	    | 	cpu.tmux
+[2025-12-16 12:13:19.193]	    | 	screenshots/high_bg.png
+[2025-12-16 12:13:19.248]	    | 	screenshots/high_fg.png
+[2025-12-16 12:13:19.288]	    | 	screenshots/high_icon.png
+[2025-12-16 12:13:19.327]	    | 	screenshots/low_bg.png
+[2025-12-16 12:13:19.365]	    | 	screenshots/low_fg.png
+[2025-12-16 12:13:19.414]	    | 	screenshots/low_icon.png
+[2025-12-16 12:13:19.480]	    | 	screenshots/medium_bg.png
+[2025-12-16 12:13:19.576]	    | 	screenshots/medium_fg.png
+[2025-12-16 12:13:19.641]	    | 	screenshots/medium_icon.png
+[2025-12-16 12:13:19.681]	    | 	scripts/cpu_bg_color.sh
+[2025-12-16 12:13:19.714]	    | 	scripts/cpu_fg_color.sh
+[2025-12-16 12:13:19.743]	    | 	scripts/cpu_icon.sh
+[2025-12-16 12:13:19.788]	    | 	scripts/cpu_percentage.sh
+[2025-12-16 12:13:19.820]	    | 	scripts/cpu_temp.sh
+[2025-12-16 12:13:19.850]	    | 	scripts/cpu_temp_bg_color.sh
+[2025-12-16 12:13:19.880]	    | 	scripts/cpu_temp_fg_color.sh
+[2025-12-16 12:13:19.910]	    | 	scripts/cpu_temp_icon.sh
+[2025-12-16 12:13:19.940]	    | 	scripts/gpu_bg_color.sh
+[2025-12-16 12:13:19.970]	    | 	scripts/gpu_fg_color.sh
+[2025-12-16 12:13:20.001]	    | 	scripts/gpu_icon.sh
+[2025-12-16 12:13:20.031]	    | 	scripts/gpu_percentage.sh
+[2025-12-16 12:13:20.061]	    | 	scripts/gpu_temp.sh
+[2025-12-16 12:13:20.091]	    | 	scripts/gpu_temp_bg_color.sh
+[2025-12-16 12:13:20.141]	    | 	scripts/gpu_temp_fg_color.sh
+[2025-12-16 12:13:20.179]	    | 	scripts/gpu_temp_icon.sh
+[2025-12-16 12:13:20.209]	    | 	scripts/gram_bg_color.sh
+[2025-12-16 12:13:20.246]	    | 	scripts/gram_fg_color.sh
+[2025-12-16 12:13:20.284]	    | 	scripts/gram_icon.sh
+[2025-12-16 12:13:20.316]	    | 	scripts/gram_percentage.sh
+[2025-12-16 12:13:20.354]	    | 	scripts/helpers.sh
+[2025-12-16 12:13:20.420]	    | 	scripts/ram_bg_color.sh
+[2025-12-16 12:13:20.498]	    | 	scripts/ram_fg_color.sh
+[2025-12-16 12:13:20.552]	    | 	scripts/ram_icon.sh
+[2025-12-16 12:13:20.595]	    | 	scripts/ram_percentage.sh
+[2025-12-16 12:13:20.642]	    | Please move or remove them before you merge.
+[2025-12-16 12:13:20.688]	    | Aborting
+[2025-12-16 12:13:20.734]	  "tmux-continuum" update success
+[2025-12-16 12:13:20.766]	    | Already up to date.
+[2025-12-16 12:13:20.795]	  "tmux-df" update success
+[2025-12-16 12:13:20.830]	    | Already up to date.
+[2025-12-16 12:13:20.870]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:13:20.966]	Done.
+
+[2025-12-16 12:13:27.770]	  "tmux-resurrect" update fail
+[2025-12-16 12:13:27.814]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-16 12:13:27.853]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-16 12:13:27.884]	  "tmux-df" update fail
+[2025-12-16 12:13:27.916]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-16 12:13:27.948]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-16 12:13:27.979]	  "tmux-continuum" update fail
+[2025-12-16 12:13:28.016]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-16 12:13:28.048]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-16 12:13:28.092]	  "tmux-cpu" update fail
+[2025-12-16 12:13:28.125]	    | error: cannot open '.git/FETCH_HEAD': No such file or directory
+[2025-12-16 12:13:28.155]	    | fatal: Unable to read current working directory: No such file or directory
+[2025-12-16 12:13:28.194]	Invoking /home/akashdeep/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 12:13:28.277]	Done.
+
